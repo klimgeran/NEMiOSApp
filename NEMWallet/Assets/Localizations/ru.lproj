@@ -1,5 +1,5 @@
 
-// MARK: - Languages
+// MARK: - Языки
 
 "LANGUAGE_ENGLISH" = "English";
 "LANGUAGE_INDONESIAN" = "Indonesian";
@@ -16,27 +16,29 @@
 "LANGUAGE_GERMAN" = "Deutsch";
 "LANGUAGE_KOREAN" = "Korean";
 "LANGUAGE_ITALIAN" = "Italian";
+"LANGUAGE_ITALIAN" = "Russian";
+
 
 // MARK: - A
 
-"ACCOUNT_PRIMATY" = "Primary Account";
-"ADD_ACCOUNT" = "Add Account";
-"ADD_SERVER" = "Add Server";
-"ACCOUNT_NAME" = "Account Name";
-"ACCOUNT_NAME_PLACEHOLDER" = "Account Name";
-"ADDRESS_BOOK" = "Address Book";
-"ADD_CONTACT" = "Add Contact";
-"ADDRESS" = "Address";
-"ADDRESS_COPIED" = "Address copied.";
-"AMOUNT" = "Amount";
-"ACCOUNTS" = "Accounts";
-"ACCOUNT_NOT_ENOUGHT_MONEY" = "Insufficient Funds";
-"ACCOUNT" = "Account";
-"ADD" = "Add";
-"ADD_COSIGNATORY" = "Add Cosignatory";
-"ADD_ADITIONAL_SIGNER" = "Add Additional Signer";
-"ACCOUNT_HISTORY" = "Account History";
-"ABOUT" = "About";
+"ACCOUNT_PRIMATY" = "Основной аккаунт";
+"ADD_ACCOUNT" = "Добавить аккаунт";
+"ADD_SERVER" = "Добавить сервер";
+"ACCOUNT_NAME" = "Имя аккаунта";
+"ACCOUNT_NAME_PLACEHOLDER" = "Имя аккаунта";
+"ADDRESS_BOOK" = "Адресная книга";
+"ADD_CONTACT" = "Добавить контакт";
+"ADDRESS" = "Адрес";
+"ADDRESS_COPIED" = "Адрес скопирован.";
+"AMOUNT" = "Количество";
+"ACCOUNTS" = "Аккаунты";
+"ACCOUNT_NOT_ENOUGHT_MONEY" = "Недостаточно средств";
+"ACCOUNT" = "Аккаунт";
+"ADD" = "Добавить";
+"ADD_COSIGNATORY" = "Добавить подписанта";
+"ADD_ADITIONAL_SIGNER" = "Добавить дополнительного подписанта";
+"ACCOUNT_HISTORY" = "История аккаунта";
+"ABOUT" = "О";
 
 // MARK: - B
 
